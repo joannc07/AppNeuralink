@@ -1,10 +1,13 @@
 # AppNeuralink
 <hr>
 
+
 ## Tecnologias Utilizadas
 
 - Kotlin
 - Java
+
+<br>
 
 ## Funcionalidades
 
@@ -12,6 +15,8 @@
 - Pesquisa de notícias: Os usuários podem pesquisar notícias específicas a partir da lupa de pesquisa;
 - Favoritos: Os usuários podem colocar notícias como favoritas, que aparecem na aba "favoritos";
 - Opiniões: Abaixo das notícias, há opiniões críticas sobre a empresa e suas atividades.
+
+<br>
 
 ## Integrantes
 
