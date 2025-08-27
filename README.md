@@ -2,6 +2,11 @@
 <hr>
 
 
+## Aplicativo
+- O software possibilita o usuário acessar noticiários mais recentes sobre o Neuralink. Além disso, também apresenta notícias relacionadas a essa sociedade comercial, como sobre a tecnologia cerebral.
+
+<br>
+
 ## Tecnologias Utilizadas
 
 - Kotlin
@@ -13,8 +18,8 @@
 
 - Visualização de notícias: O aplicativo permite que o usuário veja e acesse notícias sobre o neuralink;
 - Pesquisa de notícias: Os usuários podem pesquisar notícias específicas a partir da lupa de pesquisa;
-- Favoritos: Os usuários podem colocar notícias como favoritas, que aparecem na aba "favoritos";
-- Opiniões: Abaixo das notícias, há opiniões críticas sobre a empresa e suas atividades.
+- Favoritos: Os usuários podem colocar notícias como favoritas, que aparecem na aba "favoritos".
+
 
 <br>
 
