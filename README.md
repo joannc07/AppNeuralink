@@ -31,3 +31,13 @@
 | Christopher Klein           | christopherklein@gmail.com | Christopher9098 |
 | Emanuel Julio de Lima Gomes | emanuelgomes011@gmail.com  | ExpertOne       |
 | Joan Nassr Conte            | joanncsenac@gmail.com      | joanc07         |
+
+
+
+
+
+<br>
+
+## Download
+
+Acesse o link do arquivo no formato para Android Studio https://drive.google.com/drive/folders/1rygOSBKHJb2YOE4w_vTYf5cOPKG0WcKS?usp=sharing 
